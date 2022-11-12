@@ -21,7 +21,7 @@
   $ git clone https://github.com/luanfred/mini-loja.git
 
   # Acesse a pasta do projeto
-  $ cd Mini-Loja
+  $ cd mini-loja
 
   # Instale as dependências
   $ npm install
