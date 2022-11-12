@@ -1,7 +1,7 @@
 # Mini-Loja 
 
 <p>Projetinho utilizando uma API REST do <a href="https://dummyjson.com/">DummyJSON</a></p>
-<p></![construcao](https://user-images.githubusercontent.com/111262681/201446428-687be80f-633f-4042-95e9-74f6465ca59b.png)</p>
+<p>![construcao](https://user-images.githubusercontent.com/111262681/201446646-388d7bc1-a3b9-442b-a6ea-9edc24fffc94.gif)</p>
 <hr>
 
 <h3>Pré-requisitos</h3>
