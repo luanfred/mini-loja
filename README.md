@@ -1,7 +1,7 @@
 # Mini-Loja 
 
 <p>Projetinho utilizando uma API REST do <a href="https://dummyjson.com/">DummyJSON</a></p>
-
+</![construcao](https://user-images.githubusercontent.com/111262681/201446428-687be80f-633f-4042-95e9-74f6465ca59b.png)
 <hr>
 
 <h3>Pré-requisitos</h3>
@@ -11,7 +11,7 @@
   <a href="https://nodejs.org/en/"> Node.js</a>.
   E ter um editor de código como 
   <a href="https://code.visualstudio.com/"> VSCode</a>.
-</p>
+p>
 
 
 <br>
