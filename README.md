@@ -1,6 +1,12 @@
 # Mini-Loja 
 
-<p>Projetinho utilizando uma API REST do <a href="https://dummyjson.com/">DummyJSON</a></p>
+# Em construção
+
+![construcao](https://user-images.githubusercontent.com/111262681/201446973-3a7f640f-9b9e-41c1-b25f-297707689fb7.png)
+
+<p>Projetinho utilizando uma API REST do <a href="https://dummyjson.com/">DummyJSON.</a></p>
+
+<p>O objetivo desse miniprojeto é apenas para o aprendizado de consumo de API e a utilização de rotas de navegação.</p>
 
 <hr>
 
