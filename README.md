@@ -1,4 +1,4 @@
-# Mini Loja 
+# Mini-Loja 
 
 <p>Projetinho utilizando uma API REST do <a href="https://dummyjson.com/">DummyJSON</a></p>
 <hr>
@@ -18,10 +18,10 @@
 
 ```bash
   # Clone esse repositório
-  $ git clone https://github.com/luanfred/Pokedex.git
+  $ git clone https://github.com/luanfred/mini-loja.git
 
   # Acesse a pasta do projeto
-  $ cd Pokedex
+  $ cd Mini-Loja
 
   # Instale as dependências
   $ npm install
@@ -40,5 +40,5 @@
     <ul>
         <li><a href="https://pt-br.reactjs.org/">ReactJs</a></li>
         <li><a href="https://nodejs.org/en/">NodeJs</a></li>
-        <li><a href="https://tailwindcss.com/">Tailwindcss</a></li>    
+        <li><a href="https://styled-components.com/">Styled-Components </a></li>    
     </ul>
