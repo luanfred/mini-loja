@@ -15,7 +15,7 @@ export function Home() {
 
     setProducts(data.products)
   }
-  
+
   useEffect(() => {
     getAllProducts()
   }, [])

@@ -1,7 +1,6 @@
 import { GlobalStyle } from "./styles/global"
 import { Routes, Route } from "react-router-dom"
 import { Home } from './pages/Home/index'
-import { Categories } from './pages/Categories'
 import { Header } from './components/Header'
 import { ResultsCategory } from "./pages/ResultsCategory"
 import { Product } from "./pages/Product"
@@ -15,7 +14,6 @@ export function App() {
       <Header />
       <Routes>
         <Route path="/" element={<Home />} />
-        <Route path="/categorias" element={<Categories />} />
         <Route path="category/smartphones" element={<ResultsCategory categories="smartphones" />} />
         <Route path="/category/laptops" element={< ResultsCategory categories="laptops" />} />
         <Route path="/category/fragrances" element={< ResultsCategory categories="fragrances" />} />

@@ -7,44 +7,43 @@ export const Container = styled.div`
   display: flex;
   justify-content: space-between;
   align-items: center;
- 
-  background-color: #1a73e8;
-  color: white;
-
+  
+  border-bottom: 1px solid #1a73e8;
+  background-color: #ffffff;
+  color: #1a73e8;
+  
   .logo {
-    padding-left: 16px;
+    margin-left: 26px;
     font-size: large;
     font-style: italic;
-    color: #ffffff;
+    color: #1a73e8;
     text-decoration: none;
   }
-  .categorias {
-    padding-left: 16px;
-    font-size: medium;
-    color: #ffffff;
-    text-decoration: none;
+
+  a:hover {
+    color: #1a20e8;
   }
 `
 
-export const ContainerSearch = styled.div`
+export const Category = styled.div`
   display: flex;
   align-items: center;
-  padding-right: 16px;
-  gap: 16px;
+  margin-right: 26px;
 `
 
-export const Button = styled.a`
+export const Button = styled.button`
+  width: 120px;
+  height: 30px;
+
   font-size: medium;
-  color: white;
-  text-decoration: none;
-  cursor: pointer;
-`
-
-export const Form = styled.form`
-
-`
-export const Input = styled.input`
-  background-color: white;
-  flex: 1;
-  border: 0;
+  background: transparent;
+  border: none;
+  
+  a {
+    color: #1a73e8;
+  }
+  
+  a:hover {
+    color: #1a20e8;
+  }
 `
